@@ -1,4 +1,21 @@
 # data-science-and-analytics
 ## About 
-### part 1
-This repository documents my independent learning journey as a data and business analyst. In this journey, I challenged myself to commit a total of 120 days into broadening my data analysis knowledge and skills to end off 2022 as a more competent and confident data and businesss analyst. 
+This repository documents my independent learning journey as a **data analyst**. In this journey, I challenged myself to complete a total of *10 data science and analytics courses* to mark off 2022 as a more proficient data analyst. 
+
+## Materials
+1. Google Data Analyst Professional Certificate - Google [^1]
+2. Advanced Google Analytics - Google [^2]
+3. Data Visualisation with Advanced Excel - PwC [^3]
+
+## Table of Contents 
+| Course Name | Description | Reference Links |
+| ----------- | ----------- | ----------- |
+| Google Data Analyst Professional Certificate (Google) | Concepts in R programming including functions, variables, data types, pipes, and vectors, Formatting R Markdown, Use of sorts, filters and functions in spreadsheets, Use of functions and syntax to create SQL queries for combining data from multiple database tables, Biased and unbiased data, Types of Data integrity, Application of SQL functions for cleaning string variables in a database, Develop basic SQL queries on databases | [^1] |
+| Advanced Google Analytics (Google) | Text |
+
+
+
+## References
+[^1]: https://coursera.org/share/ac88f6d910277f696b63796c82b1e632
+[^2]: https://analytics.google.com/analytics/academy/certificate/j-kGKFUdQ3KELwyMDlDtbw
+[^3]: https://coursera.org/share/94061219357fb915e6b301effd7131b8 
