@@ -8,7 +8,7 @@ This repository documents my independent learning journey as a **data analyst**.
 3. Data Visualisation with Advanced Excel - PwC [^3]
 
 ## Table of Contents 
-| Course Name | Description | Reference Links |
+| Course | Description | Reference Links |
 | ----------- | ----------- | ----------- |
 | Google Data Analyst Professional Certificate (Google) | Concepts in R programming including functions, variables, data types, pipes, and vectors, Formatting R Markdown, Use of sorts, filters and functions in spreadsheets, Use of functions and syntax to create SQL queries for combining data from multiple database tables, Biased and unbiased data, Types of Data integrity, Application of SQL functions for cleaning string variables in a database, Develop basic SQL queries on databases | [^1] |
 | Advanced Google Analytics (Google) | Data Collection and Processing, Setting Up Data Collection and Configuration, Advanced Analysis Tools and Techniques, Advanced Marketing Tools | [^2] |
