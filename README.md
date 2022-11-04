@@ -1,6 +1,6 @@
 # data-science-and-analytics
 ## About 
-This repository documents my independent learning journey as a **data analyst**. In this journey, I challenged myself to complete a total of *9 data science and analytics courses* to mark off 2022 as a more proficient data analyst. 
+This repository documents my independent learning journey as a **data analyst**. 
 
 ## Materials
 1. Google Data Analyst Professional Certificate - Google [^1]
