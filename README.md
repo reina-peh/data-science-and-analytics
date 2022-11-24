@@ -1,6 +1,6 @@
 # data-science-and-analytics
 ## About 
-This repository documents the learning outcomes of courses that I have taken in quest of self-improvement as an analyst. 
+This repository documents my independent learning in quest of reinforcing my existing knowledge and skills as an analyst. I have hand-picked courses, of which mostly come with assessments and labs to augment my learning. 
 
 ## Materials
 1. Google Data Analyst Professional Certificate — Google [^1]
