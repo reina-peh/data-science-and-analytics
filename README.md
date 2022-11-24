@@ -1,6 +1,6 @@
 # data-science-and-analytics
 ## About 
-This repository documents my independent learning journey as a **data analyst**. 
+This repository documents the learning outcomes of online courses that I have taken for fun. 
 
 ## Materials
 1. Google Data Analyst Professional Certificate — Google [^1]
